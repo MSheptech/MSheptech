@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Hi, I'm Michelle - TTA Cyber Trainer <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Michelle - TTA Cyber Trainer <br/>Computer Science Teacher, Cybersecurity Mentor</h1>
 <h2>🌱 I’m currently learning: </h2>
 
 - <b> Ethical hacking course </b>
