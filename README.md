@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Hi, I'm Michelle - TTA Cyber Trainer <br/>Computer Science Teacher, Cybersecurity Mentor</h1>
+<h1>Hi, I'm Michelle - Cyber Trainer <br/>Computer Science Teacher, Cybersecurity Mentor</h1>
 <h2>🌱 I’m currently learning: </h2>
 
 - <b> Ethical hacking course </b>
