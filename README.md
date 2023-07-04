@@ -30,7 +30,7 @@
 
 - <b>Malware Bytes</b> (https://www.malwarebytes.com/blog)
 - <b>Cisco Cybersecurity essentials </b>
-- [External resources]([https://github.com/MSheptech/Cyber-CTF](https://github.com/MSheptech/Cyber-resources)) 
+- [External resources](https://github.com/MSheptech/Cyber-resources) 
 
 <h2>📺 Popular YouTube Videos</h2>
 
