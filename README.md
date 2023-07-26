@@ -12,7 +12,6 @@
   - [Solutions]()
   
 - <b>PowerShell</b>
-  - 
 - <b>Python</b>
   - [Password cracking Algorithm Demo]
 
