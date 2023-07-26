@@ -26,7 +26,7 @@
 - <b>BCS CISMP</b>
 -  <b>Cisco Junior Cybersecurity Analyst </b> 
 - <b>Cisco Cybersecurity Essentials </b>
-- <b>Cisco Net Acadmey Linux Essentials </b>
+- <b>Cisco Network Academy Linux Essentials </b>
 
 <h2>🗃 Info Security sources:</h2>
 
