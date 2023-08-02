@@ -23,6 +23,7 @@
 -  <b>Cisco Junior Cybersecurity Analyst </b> 
 - <b>Cisco Cybersecurity Essentials </b>
 - <b>Cisco Network Academy Linux Essentials </b>
+- <b> <a href="https://www.credly.com/badges/fcec0b5e-dbcf-48cb-9f33-184a890300b6/public_url"> Cisco Data Science </a> </b>
 
 <h2>🗃 Info Security sources:</h2>
 
